@@ -1,2 +1,2 @@
 # STARTING-GITHUB
-HI , i am Ritik and  am stating using github.
+HI , i am Ritik and i am stating using github.
